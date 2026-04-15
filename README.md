@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Shaza
 
-<!--
-**ShazaNasser20/shazanasser20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Artificial Intelligence & Data Management student.  
+I'm interested in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.  
+I'm currently learning AI and working on improving my skills through small projects and practice.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Artificial Intelligence (AI)
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Data Science
+
+---
+
+## Currently Learning
+- AI basics and fundamentals  
+- NLP concepts and applications  
+- Building small projects for practice  
+- Improving my CV in AI and Data Science
+
+---
+
+## Contact
+GitHub: https://github.com/shazanasser20
