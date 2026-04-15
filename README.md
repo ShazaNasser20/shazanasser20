@@ -1,5 +1,3 @@
-# I'm Shaza
-
 ## About Me
 Artificial Intelligence & Data Management student.  
 I'm interested in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.  
