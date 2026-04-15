@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shaza
+# I'm Shaza
 
 ## About Me
 Artificial Intelligence & Data Management student.  
