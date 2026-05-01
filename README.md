@@ -1,26 +1,19 @@
-## About Me
-Artificial Intelligence & Data Management student.  
-I'm interested in Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.  
-I'm currently learning AI and working on improving my skills through small projects and practice.
+AI & Data Science Enthusiast
+Passionate about Machine Learning, Data Analysis & Intelligent Systems
+Focused on building data-driven and real-world AI projects
 
----
+About Me
+- Working on AI, Machine Learning & Data Science projects
+- Skilled in SQL, Python, and Web Development fundamentals
+- Interested in transforming data into meaningful insights and solutions
+- Active in tech communities and creative media activities
 
-## Interests
-- Artificial Intelligence (AI)
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Data Science
+Connect with Me
+Email: shazaabdulnaser20@gmail.com
+LinkedIn: www.linkedin.com/in/shaza-abdulnaser
 
----
-
-## Currently Learning
-- AI basics and fundamentals  
-- NLP concepts and applications  
-- Building small projects for practice  
-- Improving my CV in AI and Data Science
-
----
-
-## Contact
-GitHub: https://github.com/shazanasser20
+Tech Stack
+Programming: Python | SQL | JavaScript
+AI/Data: Machine Learning | Data Analysis | Data Visualization
+Web: HTML | CSS | JavaScript
+Tools: GitHub | Canva
